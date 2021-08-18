@@ -8,7 +8,7 @@ Step 3: Run the server.py file on command prompt or either VSCODE, to the run th
 Step 4: Open up a broswer and search, "http://localhost:9872/test.html" \
 Step 5: It should work and on page say, "I AM HERE!" or maybe a poem? I should make it interesting. \
 Step 6: If it fails, a 404 Error will pop up letting you know. \
-Step 7: Smile, cause you just opened up a server. \
+Step 7: Smile, cause you just opened up a server.
 
 In this assignment, you will develop a simple Web server in Python that is capable
 of processing only one request. Specifically, your Web server will
