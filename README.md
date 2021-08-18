@@ -2,12 +2,12 @@ How to make project work:
 
 Since the code is pretty much done for you and explained with the comments. All you have to make sure is that you have Python installed on your operating system. 
 
-Step 1: Open VSCODE where code is at.
-Step 2: Open Command Prompt or use the python terminal on VSCODE
-Step 3: Run the server.py file on command prompt or either VSCODE, to the run the server just do "py server.py". A message should pop up saying "Server is on port: 9872, Ready to Serve".
-Step 4: Open up a broswer and search, "http://localhost:9872/test.html"
-Step 5: It should work and on page say, "I AM HERE!" or maybe a poem? I should make it interesting.
-Step 6: If it fails, a 404 Error will pop up letting you know.
+Step 1: Open VSCODE where code is at. \
+Step 2: Open Command Prompt or use the python terminal on VSCODE \
+Step 3: Run the server.py file on command prompt or either VSCODE, to the run the server just do "py server.py". A message should pop up saying "Server is on port: 9872, Ready to Serve". \
+Step 4: Open up a broswer and search, "http://localhost:9872/test.html" \
+Step 5: It should work and on page say, "I AM HERE!" or maybe a poem? I should make it interesting. \
+Step 6: If it fails, a 404 Error will pop up letting you know. \
 Step 7: Smile, cause you just opened up a server.
 
 In this assignment, you will develop a simple Web server in Python that is capable
